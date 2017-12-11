@@ -24,7 +24,6 @@ export default class PCIndex extends React.Component{
 				</div>
 			
 
-					{/*天气的接口*/}
 			<div>
 				{/*<Weather />*/}
 				
